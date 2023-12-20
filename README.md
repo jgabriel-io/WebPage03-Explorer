@@ -2,7 +2,9 @@
 
 ## **📝 Descrição**
 
-Este projeto consiste em uma página HTML e CSS que demonstra a aplicação de responsividade para diferentes tamanhos de tela. O conteúdo apresenta informações sobre serviços oferecidos por uma empresa de desenvolvimento web e mobile.
+Este projeto consiste em uma página HTML e CSS que demonstra a aplicação de responsividade para diferentes tamanhos de tela por meio da trilha Explorer na plataforma da Rocketseat🚀
+
+![REsponsividade.png](/src/assets/Responsividade.png)
 
 ## **💻 Tecnologias Utilizadas**
 
@@ -29,6 +31,8 @@ Este projeto consiste em uma página HTML e CSS que demonstra a aplicação de r
 - **Utilização de Unidades de Medida Relativas:** Utilização de unidades de medida relativas para garantir um design responsivo e flexível.
 
 O projeto oferece uma introdução prática e aplicada aos conceitos de responsividade, demonstrando como os elementos se adaptam de acordo com a largura da tela, proporcionando uma experiência consistente em diversos dispositivos.
+
+---
 
 Desenvolvido por João Gabriel | [Linkedin](https://www.linkedin.com/in/jgabriel522/) | 27/11/2023
 
